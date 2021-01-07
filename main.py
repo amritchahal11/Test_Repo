@@ -1,3 +1,3 @@
 def main():
-  print("Amrit Chahal")
+  print(name)
 main()
